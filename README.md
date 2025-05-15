@@ -8,7 +8,7 @@ This project uses a **Decision Tree classifier** to detect **DDoS attacks in DNS
 * Generated using realistic user behavior and attack simulations.
 * Link: https://www.unb.ca/cic/datasets/ddos-2019.html
 
-###Preprocessing:
+### Preprocessing:
 
 The preprocess.py script:
 * Removes unnecessary columns
