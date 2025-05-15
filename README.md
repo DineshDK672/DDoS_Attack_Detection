@@ -6,6 +6,7 @@ This project uses a **Decision Tree classifier** to detect **DDoS attacks in DNS
 
 * **CICDDoS2019**: Contains labeled network traffic including benign and modern DDoS attacks (e.g., DNS, NTP, SYN, UDP-Lag).
 * Generated using realistic user behavior and attack simulations.
+* Link: https://www.unb.ca/cic/datasets/ddos-2019.html
 
 ### Key Features:
 
